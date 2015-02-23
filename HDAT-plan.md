@@ -2,21 +2,21 @@
 
 ## Samenvatting
 
-Een interactieve web-visualisatie van DAS en BG. 
+Een interactieve web-visualisatie van DAS en BGB. 
 
 ## Doelen
 
-1. Een geografisch inzicht geven in de schaal en het tijdbestek van de VOC.
+1. Een geografisch inzicht geven in de schaal en het tijdbestek van de Nederlandse handel met Azië in de 17e en 18e eeuw.
 2. De impact op de betreffende landen laten zien.
 3. Een detailview die de inhoud van de handel zichtbaar maakt. Dit moet zichtbaar worden door een directe samenhang van grafiek en geografische weergave. Eventueel aangevuld met een detailview van individuele schepen. 
-4. Belangrijke evenementen die invloed hebben gehad op de VOC bijvoegen.
+4. Belangrijke evenementen die invloed hebben gehad op de Nederlandse handel met Azië in de 17e en 18e eeuw bijvoegen.
 5. Een interpretatie in de vorm van narratief aan de visualisatie toevoegen.
 
 ## Leerdoelen
 
 1. Omgaan met GIS en gereedschappen voor datatransformatie.
 2. Kritisch naar het gebruik van DH te kijken.
-3. Dieper inzicht verkrijgen in de VOC en haar impact op de Nederlandse samenleving.
+3. Dieper inzicht verkrijgen in de Nederlandse handel met Azië in de 17e en 18e eeuw en haar impact op de Nederlandse samenleving.
 
 ## Plan
 
