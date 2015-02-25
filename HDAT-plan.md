@@ -43,6 +43,10 @@ Dit kan gebeuren in een aparte laag op de kaart die niet altijd zichtbaar hoeft 
 
 9. De gehele visualisatie omkleden met een interpretatief en narratief verhaal. Eventueel gebruikmakend van foto’s en andere media. Evt. gebruikmakend van containersite.
 
+## Data
+
+In hoeverre verschillen de DAS-dataset en de BGB-dataset van elkaar? Er is enige overlap tussen de datasets te vinden. Zo bevat BGB een aantal reizen die ook in de DAS-set te vinden zijn. Deze zijn makkelijk te identificeren omdat BGB in die gevallen melding maakt van het DAS id-nummer. Des al niet te min zijn er ook flinke verschillen. De BGB-set bevat alleen reizen van en naar Batavia (de reizen die de 'Boekhouder-Generaal' in Batavia bijhield). De DAS-set begint vanaf 1595, terwijl BGB pas vanaf 1700 begint. DAS eindigt bij 1795, terwijl BGB doorgaat tot iets na 1800. Daarnaast verschillen de sets ook inhoudelijk van elkaar. DAS bevat enkel reizen van Europa naar Azië, terwijl BGB ook reizen in het Oost-Indische gebied bevat. Ook wat structuur betreft zijn er flinke verschillen. DAS bevat kwantitatieve informatie betreffende het personeel, en bevat losse, weinig systematische opmerkingen over de individuele reizen. BGB is wat algemene informatie vrij karig, maar bevat wel een indrukwekkende lijst met de goederen zich aan boord bevonden.
+
 ## Technisch
 
 We hebben een build tool nodig voor verschillende redenen. Ik denk dat gulp het beste is omdat we dan rechtstreeks node code kunnen uitvoeren. Daarmee kunnen we ook de dataset-transformaties rechtstreeks in de build opnemen (en daar gaan we er nogal wat van nodig hebben, door het hele process heen). 
