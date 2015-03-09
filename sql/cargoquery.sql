@@ -1,5 +1,4 @@
 -- FORMAT CARGO
--- Nieuwe tijdelijke tabel, met geconcateneerde vertrek en aankomsttijd
 CREATE TABLE tempCargo
 SELECT 	d.carId, 
 		f.naam,
