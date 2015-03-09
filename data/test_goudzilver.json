@@ -1,0 +1,962 @@
+[
+  [
+    {
+      "voyBookingYear": "1701",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "672831"
+    },
+    {
+      "voyBookingYear": "1702",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "935227"
+    },
+    {
+      "voyBookingYear": "1703",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "501352"
+    },
+    {
+      "voyBookingYear": "1704",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "771007"
+    },
+    {
+      "voyBookingYear": "1707",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "160358"
+    },
+    {
+      "voyBookingYear": "1709",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "1043926"
+    },
+    {
+      "voyBookingYear": "1711",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "1103881"
+    },
+    {
+      "voyBookingYear": "1712",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "662551"
+    },
+    {
+      "voyBookingYear": "1713",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "569076"
+    },
+    {
+      "voyBookingYear": "1715",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "644814"
+    },
+    {
+      "voyBookingYear": "1722",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "250217"
+    },
+    {
+      "voyBookingYear": "1723",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "546704"
+    },
+    {
+      "voyBookingYear": "1724",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "834369"
+    },
+    {
+      "voyBookingYear": "1726",
+      "naam": "goud",
+      "guldenstotaal": "185222",
+      "lichttotaal": "677975"
+    },
+    {
+      "voyBookingYear": "1727",
+      "naam": "goud",
+      "guldenstotaal": "555542",
+      "lichttotaal": "1822819"
+    },
+    {
+      "voyBookingYear": "1729",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "958540"
+    },
+    {
+      "voyBookingYear": "1731",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "890038"
+    },
+    {
+      "voyBookingYear": "1732",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "364711"
+    },
+    {
+      "voyBookingYear": "1735",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "1111920"
+    },
+    {
+      "voyBookingYear": "1738",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "638104"
+    },
+    {
+      "voyBookingYear": "1739",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "513296"
+    },
+    {
+      "voyBookingYear": "1741",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "764807"
+    },
+    {
+      "voyBookingYear": "1742",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "341466"
+    },
+    {
+      "voyBookingYear": "1743",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "546735"
+    },
+    {
+      "voyBookingYear": "1751",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "903487"
+    },
+    {
+      "voyBookingYear": "1752",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "1832204"
+    },
+    {
+      "voyBookingYear": "1753",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "2019870"
+    },
+    {
+      "voyBookingYear": "1754",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "2537565"
+    },
+    {
+      "voyBookingYear": "1755",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "2586020"
+    },
+    {
+      "voyBookingYear": "1757",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "2354579"
+    },
+    {
+      "voyBookingYear": "1759",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "3012291"
+    },
+    {
+      "voyBookingYear": "1760",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "3572156"
+    },
+    {
+      "voyBookingYear": "1761",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "1822623"
+    },
+    {
+      "voyBookingYear": "1762",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "3063237"
+    },
+    {
+      "voyBookingYear": "1763",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "2289136"
+    },
+    {
+      "voyBookingYear": "1764",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "4150377"
+    },
+    {
+      "voyBookingYear": "1766",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "2901763"
+    },
+    {
+      "voyBookingYear": "1767",
+      "naam": "goud",
+      "guldenstotaal": null,
+      "lichttotaal": "1705666"
+    },
+    {
+      "voyBookingYear": "1769",
+      "naam": "goud",
+      "guldenstotaal": "2348116",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1772",
+      "naam": "goud",
+      "guldenstotaal": "1831303",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1773",
+      "naam": "goud",
+      "guldenstotaal": "1969079",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1774",
+      "naam": "goud",
+      "guldenstotaal": "1697601",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1775",
+      "naam": "goud",
+      "guldenstotaal": "1605351",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1776",
+      "naam": "goud",
+      "guldenstotaal": "2647214",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1777",
+      "naam": "goud",
+      "guldenstotaal": "1424147",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1778",
+      "naam": "goud",
+      "guldenstotaal": "1140483",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1779",
+      "naam": "goud",
+      "guldenstotaal": "532228",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1780",
+      "naam": "goud",
+      "guldenstotaal": "945963",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1781",
+      "naam": "goud",
+      "guldenstotaal": "1215106",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1782",
+      "naam": "goud",
+      "guldenstotaal": "174595",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1783",
+      "naam": "goud",
+      "guldenstotaal": "246708",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1785",
+      "naam": "goud",
+      "guldenstotaal": "301305",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1787",
+      "naam": "goud",
+      "guldenstotaal": "212031",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1790",
+      "naam": "goud",
+      "guldenstotaal": "573510",
+      "lichttotaal": null
+    }
+  ],
+  [
+    {
+      "voyBookingYear": "1701",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "1923918"
+    },
+    {
+      "voyBookingYear": "1702",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "1520495"
+    },
+    {
+      "voyBookingYear": "1703",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "927563"
+    },
+    {
+      "voyBookingYear": "1704",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "1531061"
+    },
+    {
+      "voyBookingYear": "1707",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "1294489"
+    },
+    {
+      "voyBookingYear": "1709",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "960275"
+    },
+    {
+      "voyBookingYear": "1711",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "1222209"
+    },
+    {
+      "voyBookingYear": "1712",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "763475"
+    },
+    {
+      "voyBookingYear": "1713",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "707716"
+    },
+    {
+      "voyBookingYear": "1715",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "1131113"
+    },
+    {
+      "voyBookingYear": "1722",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "7839185"
+    },
+    {
+      "voyBookingYear": "1723",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "7915621"
+    },
+    {
+      "voyBookingYear": "1724",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "7690234"
+    },
+    {
+      "voyBookingYear": "1726",
+      "naam": "zilver",
+      "guldenstotaal": "3703526",
+      "lichttotaal": "6332120"
+    },
+    {
+      "voyBookingYear": "1727",
+      "naam": "zilver",
+      "guldenstotaal": "2717221",
+      "lichttotaal": "3706267"
+    },
+    {
+      "voyBookingYear": "1729",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "5719285"
+    },
+    {
+      "voyBookingYear": "1731",
+      "naam": "zilver",
+      "guldenstotaal": "1300626",
+      "lichttotaal": "1740570"
+    },
+    {
+      "voyBookingYear": "1732",
+      "naam": "zilver",
+      "guldenstotaal": "963128",
+      "lichttotaal": "1205488"
+    },
+    {
+      "voyBookingYear": "1735",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "232521"
+    },
+    {
+      "voyBookingYear": "1738",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "3827932"
+    },
+    {
+      "voyBookingYear": "1739",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "6284247"
+    },
+    {
+      "voyBookingYear": "1741",
+      "naam": "zilver",
+      "guldenstotaal": "227681",
+      "lichttotaal": "6345451"
+    },
+    {
+      "voyBookingYear": "1742",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "7225078"
+    },
+    {
+      "voyBookingYear": "1743",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "4643225"
+    },
+    {
+      "voyBookingYear": "1751",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "5096398"
+    },
+    {
+      "voyBookingYear": "1752",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "7206024"
+    },
+    {
+      "voyBookingYear": "1753",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "6557697"
+    },
+    {
+      "voyBookingYear": "1754",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "6680488"
+    },
+    {
+      "voyBookingYear": "1755",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "6735068"
+    },
+    {
+      "voyBookingYear": "1757",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "5504648"
+    },
+    {
+      "voyBookingYear": "1759",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "3751585"
+    },
+    {
+      "voyBookingYear": "1760",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "2701592"
+    },
+    {
+      "voyBookingYear": "1761",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "1495444"
+    },
+    {
+      "voyBookingYear": "1762",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "2624951"
+    },
+    {
+      "voyBookingYear": "1763",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "2215615"
+    },
+    {
+      "voyBookingYear": "1764",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "2169229"
+    },
+    {
+      "voyBookingYear": "1766",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "1408566"
+    },
+    {
+      "voyBookingYear": "1767",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": "5689713"
+    },
+    {
+      "voyBookingYear": "1769",
+      "naam": "zilver",
+      "guldenstotaal": "2473678",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1772",
+      "naam": "zilver",
+      "guldenstotaal": "1143658",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1773",
+      "naam": "zilver",
+      "guldenstotaal": "2894235",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1774",
+      "naam": "zilver",
+      "guldenstotaal": "704554",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1775",
+      "naam": "zilver",
+      "guldenstotaal": "401242",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1776",
+      "naam": "zilver",
+      "guldenstotaal": "845267",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1777",
+      "naam": "zilver",
+      "guldenstotaal": "297699",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1778",
+      "naam": "zilver",
+      "guldenstotaal": "399061",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1779",
+      "naam": "zilver",
+      "guldenstotaal": "10754",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1780",
+      "naam": "zilver",
+      "guldenstotaal": "49794",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1781",
+      "naam": "zilver",
+      "guldenstotaal": "200053",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1783",
+      "naam": "zilver",
+      "guldenstotaal": "150141",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1785",
+      "naam": "zilver",
+      "guldenstotaal": null,
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1790",
+      "naam": "zilver",
+      "guldenstotaal": "721182",
+      "lichttotaal": null
+    }
+  ],
+  [
+    {
+      "voyBookingYear": "1701",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "3715627"
+    },
+    {
+      "voyBookingYear": "1702",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "3650887"
+    },
+    {
+      "voyBookingYear": "1703",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "4888638"
+    },
+    {
+      "voyBookingYear": "1704",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "3072559"
+    },
+    {
+      "voyBookingYear": "1707",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "3848503"
+    },
+    {
+      "voyBookingYear": "1709",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "1949687"
+    },
+    {
+      "voyBookingYear": "1711",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "4478294"
+    },
+    {
+      "voyBookingYear": "1712",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "4185249"
+    },
+    {
+      "voyBookingYear": "1713",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "3606183"
+    },
+    {
+      "voyBookingYear": "1715",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "4502862"
+    },
+    {
+      "voyBookingYear": "1722",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "483011"
+    },
+    {
+      "voyBookingYear": "1723",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "1673621"
+    },
+    {
+      "voyBookingYear": "1724",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "649903"
+    },
+    {
+      "voyBookingYear": "1726",
+      "naam": "dukatons",
+      "guldenstotaal": "1209350",
+      "lichttotaal": "824291"
+    },
+    {
+      "voyBookingYear": "1727",
+      "naam": "dukatons",
+      "guldenstotaal": "336177",
+      "lichttotaal": "1692531"
+    },
+    {
+      "voyBookingYear": "1729",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "2748738"
+    },
+    {
+      "voyBookingYear": "1731",
+      "naam": "dukatons",
+      "guldenstotaal": "887420",
+      "lichttotaal": "669539"
+    },
+    {
+      "voyBookingYear": "1732",
+      "naam": "dukatons",
+      "guldenstotaal": "1180967",
+      "lichttotaal": "1390282"
+    },
+    {
+      "voyBookingYear": "1738",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "1727736"
+    },
+    {
+      "voyBookingYear": "1739",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "4720498"
+    },
+    {
+      "voyBookingYear": "1741",
+      "naam": "dukatons",
+      "guldenstotaal": "105013",
+      "lichttotaal": "4377605"
+    },
+    {
+      "voyBookingYear": "1742",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "4562218"
+    },
+    {
+      "voyBookingYear": "1743",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "4472414"
+    },
+    {
+      "voyBookingYear": "1751",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "3301689"
+    },
+    {
+      "voyBookingYear": "1752",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "1743561"
+    },
+    {
+      "voyBookingYear": "1753",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "1444643"
+    },
+    {
+      "voyBookingYear": "1754",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "1674535"
+    },
+    {
+      "voyBookingYear": "1755",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "2134412"
+    },
+    {
+      "voyBookingYear": "1757",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "1454938"
+    },
+    {
+      "voyBookingYear": "1759",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "1680515"
+    },
+    {
+      "voyBookingYear": "1760",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "1365405"
+    },
+    {
+      "voyBookingYear": "1761",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "1390796"
+    },
+    {
+      "voyBookingYear": "1762",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "1758796"
+    },
+    {
+      "voyBookingYear": "1763",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "2723863"
+    },
+    {
+      "voyBookingYear": "1764",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "1631164"
+    },
+    {
+      "voyBookingYear": "1766",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "1312685"
+    },
+    {
+      "voyBookingYear": "1767",
+      "naam": "dukatons",
+      "guldenstotaal": null,
+      "lichttotaal": "1918860"
+    },
+    {
+      "voyBookingYear": "1769",
+      "naam": "dukatons",
+      "guldenstotaal": "1238121",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1772",
+      "naam": "dukatons",
+      "guldenstotaal": "1272078",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1773",
+      "naam": "dukatons",
+      "guldenstotaal": "1360154",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1774",
+      "naam": "dukatons",
+      "guldenstotaal": "1654899",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1775",
+      "naam": "dukatons",
+      "guldenstotaal": "1700428",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1776",
+      "naam": "dukatons",
+      "guldenstotaal": "1239151",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1777",
+      "naam": "dukatons",
+      "guldenstotaal": "1010335",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1778",
+      "naam": "dukatons",
+      "guldenstotaal": "509320",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1779",
+      "naam": "dukatons",
+      "guldenstotaal": "598887",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1780",
+      "naam": "dukatons",
+      "guldenstotaal": "593828",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1781",
+      "naam": "dukatons",
+      "guldenstotaal": "1046223",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1782",
+      "naam": "dukatons",
+      "guldenstotaal": "451102",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1783",
+      "naam": "dukatons",
+      "guldenstotaal": "126686",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1785",
+      "naam": "dukatons",
+      "guldenstotaal": "1689760",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1787",
+      "naam": "dukatons",
+      "guldenstotaal": "1753758",
+      "lichttotaal": null
+    },
+    {
+      "voyBookingYear": "1790",
+      "naam": "dukatons",
+      "guldenstotaal": "1010214",
+      "lichttotaal": null
+    }
+  ]
+]

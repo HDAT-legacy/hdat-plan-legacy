@@ -47,7 +47,7 @@ CHANGE naam PlaceOfArrival varChar(255);
 
 -- Tijdelijke tabel voor Regios, omzetting ID's naar namen
 CREATE TABLE tempTableRegio
-SELECT 	e.voyId, 
+SELECT	e.voyId, 
 		e.voyDASNumber, 
 		e.voyDepartureDate, 
 		e.voyArrivalDate,
