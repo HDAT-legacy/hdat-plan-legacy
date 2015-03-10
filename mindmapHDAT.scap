@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ScappleDocument Version="1.1" ID="8DFBCB5D-1441-414C-A930-3FC36109EB85">
     <Notes>
-        <Note ID="0" FontSize="12.0" Position="1201.702957,760.701277" Width="81.0">
+        <Note ID="0" FontSize="12.0" Position="1202.0,761.0" Width="81.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.331867 0.609932 0.356197</Border>
@@ -10,7 +10,7 @@
             <String>Leaflet Lagen</String>
             <ConnectedNoteIDs>1-6, 15</ConnectedNoteIDs>
         </Note>
-        <Note ID="1" FontSize="12.0" Position="1401.702957,555.701277" Width="53.0">
+        <Note ID="1" FontSize="12.0" Position="1402.0,556.0" Width="53.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Fill>0.995719 0.812238 0.816601</Fill>
@@ -18,7 +18,7 @@
             <String>Maptiles</String>
             <ConnectedNoteIDs>0, 27, 31</ConnectedNoteIDs>
         </Note>
-        <Note ID="2" FontSize="12.0" Position="1413.702957,735.701277" Width="39.0">
+        <Note ID="2" FontSize="12.0" Position="1397.06686,736.0" Width="39.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Fill>0.995719 0.812238 0.816601</Fill>
@@ -26,7 +26,7 @@
             <String>Ships</String>
             <ConnectedNoteIDs>0, 32, 51</ConnectedNoteIDs>
         </Note>
-        <Note ID="3" FontSize="12.0" Position="1404.702957,948.701277" Width="55.0">
+        <Note ID="3" FontSize="12.0" Position="1405.0,949.0" Width="55.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Fill>0.995719 0.812238 0.816601</Fill>
@@ -34,7 +34,7 @@
             <String>Interface</String>
             <ConnectedNoteIDs>0, 9, 34, 36-37</ConnectedNoteIDs>
         </Note>
-        <Note ID="4" FontSize="12.0" Position="1341.702957,1565.701277" Width="93.0">
+        <Note ID="4" FontSize="12.0" Position="1350.55352,1863.429777" Width="93.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Fill>0.995719 0.812238 0.816601</Fill>
@@ -42,7 +42,7 @@
             <String>Gebeurtenissen</String>
             <ConnectedNoteIDs>0</ConnectedNoteIDs>
         </Note>
-        <Note ID="5" FontSize="12.0" Position="1341.702957,1537.701277" Width="45.0">
+        <Note ID="5" FontSize="12.0" Position="1350.55352,1835.429777" Width="45.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Fill>0.995719 0.812238 0.816601</Fill>
@@ -50,7 +50,7 @@
             <String>Impact</String>
             <ConnectedNoteIDs>0</ConnectedNoteIDs>
         </Note>
-        <Note ID="6" FontSize="12.0" Position="1341.702957,1593.701277" Width="73.0">
+        <Note ID="6" FontSize="12.0" Position="1350.55352,1891.429777" Width="73.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Fill>0.995719 0.812238 0.816601</Fill>
@@ -58,7 +58,7 @@
             <String>Interpretatie</String>
             <ConnectedNoteIDs>0</ConnectedNoteIDs>
         </Note>
-        <Note ID="7" FontSize="12.0" Position="601.702957,669.701277" Width="111.0">
+        <Note ID="7" FontSize="12.0" Position="602.0,670.0" Width="111.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.331867 0.609932 0.356197</Border>
@@ -67,21 +67,21 @@
             <String>Data Transformatie</String>
             <ConnectedNoteIDs>11, 14, 19-20</ConnectedNoteIDs>
         </Note>
-        <Note ID="9" FontSize="12.0" Position="1545.702957,993.701277" Width="64.0">
+        <Note ID="9" FontSize="12.0" Position="1546.0,994.0" Width="64.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Interacties</String>
             <ConnectedNoteIDs>3, 35</ConnectedNoteIDs>
         </Note>
-        <Note ID="11" FontSize="12.0" Position="505.702957,521.701277" Width="200.0">
+        <Note ID="11" FontSize="12.0" Position="506.0,522.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>We moeten alle routes geografisch tekenen, en automatisch toekennen aan de dataset</String>
             <ConnectedNoteIDs>7, 77</ConnectedNoteIDs>
         </Note>
-        <Note ID="12" FontSize="12.0" Position="2549.702957,744.701277" Width="44.0">
+        <Note ID="12" FontSize="12.0" Position="2550.0,745.0" Width="44.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.477193 0.557066 0.76433</Border>
@@ -90,7 +90,7 @@
             <String>Server</String>
             <ConnectedNoteIDs>42, 44, 48</ConnectedNoteIDs>
         </Note>
-        <Note ID="14" FontSize="12.0" Position="665.702957,748.701277" Width="35.0">
+        <Note ID="14" FontSize="12.0" Position="666.0,749.0" Width="35.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.477193 0.557066 0.76433</Border>
@@ -99,7 +99,7 @@
             <String>Build</String>
             <ConnectedNoteIDs>7, 16</ConnectedNoteIDs>
         </Note>
-        <Note ID="15" FontSize="12.0" Position="1101.702957,760.701277" Width="39.0">
+        <Note ID="15" FontSize="12.0" Position="1102.0,761.0" Width="39.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.477193 0.557066 0.76433</Border>
@@ -108,7 +108,7 @@
             <String>Client</String>
             <ConnectedNoteIDs>0</ConnectedNoteIDs>
         </Note>
-        <Note ID="16" FontSize="12.0" Position="618.702957,832.701277" Width="34.0">
+        <Note ID="16" FontSize="12.0" Position="619.0,833.0" Width="34.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.331867 0.609932 0.356197</Border>
@@ -117,147 +117,147 @@
             <String>Gulp</String>
             <ConnectedNoteIDs>14, 21-22, 24-26</ConnectedNoteIDs>
         </Note>
-        <Note ID="19" FontSize="12.0" Position="773.702957,534.701277" Width="200.0">
+        <Note ID="19" FontSize="12.0" Position="774.0,535.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Opschoning v/d Data. Zodat alle velden zoals verwacht functioneren;  extrapolatie of andere.</String>
             <ConnectedNoteIDs>7, 57, 59-61</ConnectedNoteIDs>
         </Note>
-        <Note ID="20" FontSize="12.0" Position="864.702957,666.701277" Width="200.0">
+        <Note ID="20" FontSize="12.0" Position="865.0,667.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Normalisatie naar vergelijkbare waardes</String>
             <ConnectedNoteIDs>7</ConnectedNoteIDs>
         </Note>
-        <Note ID="21" FontSize="12.0" Position="701.702957,877.701277" Width="40.0">
+        <Note ID="21" FontSize="12.0" Position="702.0,878.0" Width="40.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>linting</String>
             <ConnectedNoteIDs>16</ConnectedNoteIDs>
         </Note>
-        <Note ID="22" FontSize="12.0" Position="701.702957,905.701277" Width="59.0">
+        <Note ID="22" FontSize="12.0" Position="702.0,906.0" Width="59.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>compiling</String>
             <ConnectedNoteIDs>16</ConnectedNoteIDs>
         </Note>
-        <Note ID="24" FontSize="12.0" Position="701.702957,933.701277" Width="71.0">
+        <Note ID="24" FontSize="12.0" Position="702.0,934.0" Width="71.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>deployment</String>
             <ConnectedNoteIDs>16</ConnectedNoteIDs>
         </Note>
-        <Note ID="25" FontSize="12.0" Position="701.702957,961.701277" Width="56.0">
+        <Note ID="25" FontSize="12.0" Position="702.0,962.0" Width="56.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>watching</String>
             <ConnectedNoteIDs>16</ConnectedNoteIDs>
         </Note>
-        <Note ID="26" FontSize="12.0" Position="701.702957,1017.701277" Width="28.0">
+        <Note ID="26" FontSize="12.0" Position="702.0,1018.0" Width="28.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>etc.</String>
             <ConnectedNoteIDs>16</ConnectedNoteIDs>
         </Note>
-        <Note ID="27" FontSize="12.0" Position="1418.702957,486.701277" Width="107.0">
+        <Note ID="27" FontSize="12.0" Position="1419.0,487.0" Width="107.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Creatie Kaart/Tiles</String>
             <ConnectedNoteIDs>1, 28, 30</ConnectedNoteIDs>
         </Note>
-        <Note ID="28" FontSize="12.0" Position="1533.702957,432.701277" Width="63.0">
+        <Note ID="28" FontSize="12.0" Position="1534.0,433.0" Width="63.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>CartoCSS</String>
             <ConnectedNoteIDs>27</ConnectedNoteIDs>
         </Note>
-        <Note ID="30" FontSize="12.0" Position="1586.702957,509.701277" Width="77.0">
+        <Note ID="30" FontSize="12.0" Position="1587.0,510.0" Width="77.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Tilesprovider</String>
             <ConnectedNoteIDs>27, 83</ConnectedNoteIDs>
         </Note>
-        <Note ID="31" FontSize="12.0" Position="1508.702957,578.701277" Width="111.0">
+        <Note ID="31" FontSize="12.0" Position="1509.0,579.0" Width="111.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Inladen met Leaflet</String>
             <ConnectedNoteIDs>1</ConnectedNoteIDs>
         </Note>
-        <Note ID="32" FontSize="12.0" Position="1555.702957,697.701277" Width="45.0">
+        <Note ID="32" FontSize="12.0" Position="1556.0,698.0" Width="45.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Torque</String>
             <ConnectedNoteIDs>2, 33, 35, 81</ConnectedNoteIDs>
         </Note>
-        <Note ID="33" FontSize="12.0" Position="1494.702957,754.701277" Width="200.0">
+        <Note ID="33" FontSize="12.0" Position="1495.0,755.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Met juiste database-queries zou mogelijk moeten zijn welke schepen zichtbaar zijn of hoe ze gestyled zijn.</String>
             <ConnectedNoteIDs>32</ConnectedNoteIDs>
         </Note>
-        <Note ID="34" FontSize="12.0" Position="1548.702957,875.701277" Width="85.0">
+        <Note ID="34" FontSize="12.0" Position="1549.0,876.0" Width="85.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Tijdsbalk (svg)</String>
             <ConnectedNoteIDs>3</ConnectedNoteIDs>
         </Note>
-        <Note ID="35" FontSize="12.0" Position="1769.702957,976.701277" Width="98.0">
+        <Note ID="35" FontSize="12.0" Position="1751.012355,875.0" Width="98.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Integratie Torgue</String>
-            <ConnectedNoteIDs>9, 32, 69-71</ConnectedNoteIDs>
+            <ConnectedNoteIDs>9, 32, 39, 69-70</ConnectedNoteIDs>
         </Note>
-        <Note ID="36" FontSize="12.0" Position="1563.702957,924.701277" Width="28.0">
+        <Note ID="36" FontSize="12.0" Position="1564.0,925.0" Width="28.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Stijl</String>
             <ConnectedNoteIDs>3</ConnectedNoteIDs>
         </Note>
-        <Note ID="37" FontSize="12.0" Position="1560.702957,1224.701277" Width="47.0">
+        <Note ID="37" FontSize="12.0" Position="1561.0,1225.0" Width="47.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Grafiek</String>
-            <ConnectedNoteIDs>3, 38-40, 43, 71</ConnectedNoteIDs>
+            <ConnectedNoteIDs>3, 38-40, 43</ConnectedNoteIDs>
         </Note>
-        <Note ID="38" FontSize="12.0" Position="1699.702957,1240.701277" Width="22.0">
+        <Note ID="38" FontSize="12.0" Position="1696.34811,1330.630269" Width="22.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>d3</String>
             <ConnectedNoteIDs>37</ConnectedNoteIDs>
         </Note>
-        <Note ID="39" FontSize="12.0" Position="1685.702957,1367.701277" Width="64.0">
+        <Note ID="39" FontSize="12.0" Position="1657.046148,1177.875363" Width="64.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Interacties</String>
-            <ConnectedNoteIDs>37</ConnectedNoteIDs>
+            <ConnectedNoteIDs>35, 37</ConnectedNoteIDs>
         </Note>
-        <Note ID="40" FontSize="12.0" Position="1698.702957,1305.701277" Width="28.0">
+        <Note ID="40" FontSize="12.0" Position="1695.34811,1395.630269" Width="28.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Stijl</String>
             <ConnectedNoteIDs>37</ConnectedNoteIDs>
         </Note>
-        <Note ID="42" FontSize="12.0" Position="2510.702957,837.701277" Width="34.0">
+        <Note ID="42" FontSize="12.0" Position="2511.0,838.0" Width="34.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.331867 0.609932 0.356197</Border>
@@ -266,14 +266,14 @@
             <String>Data</String>
             <ConnectedNoteIDs>12, 54, 81-82</ConnectedNoteIDs>
         </Note>
-        <Note ID="43" FontSize="12.0" Position="1681.702957,1182.701277" Width="71.0">
+        <Note ID="43" FontSize="12.0" Position="1678.34811,1272.630269" Width="71.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Data import</String>
             <ConnectedNoteIDs>37, 82</ConnectedNoteIDs>
         </Note>
-        <Note ID="44" FontSize="12.0" Position="2498.702957,684.701277" Width="33.0">
+        <Note ID="44" FontSize="12.0" Position="2499.0,685.0" Width="33.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.331867 0.609932 0.356197</Border>
@@ -282,28 +282,28 @@
             <String>Tiles</String>
             <ConnectedNoteIDs>12, 83</ConnectedNoteIDs>
         </Note>
-        <Note ID="45" FontSize="12.0" Position="2561.702957,1082.701277" Width="130.0">
+        <Note ID="45" FontSize="12.0" Position="2562.0,1083.0" Width="130.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Database? MongoDB?</String>
             <ConnectedNoteIDs>54</ConnectedNoteIDs>
         </Note>
-        <Note ID="46" FontSize="12.0" Position="2749.702957,1114.701277" Width="39.0">
+        <Note ID="46" FontSize="12.0" Position="2750.0,1115.0" Width="39.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Ajax?</String>
             <ConnectedNoteIDs>54</ConnectedNoteIDs>
         </Note>
-        <Note ID="47" FontSize="12.0" Position="2847.702957,1124.701277" Width="52.0">
+        <Note ID="47" FontSize="12.0" Position="2848.0,1125.0" Width="52.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Socket?</String>
             <ConnectedNoteIDs>54</ConnectedNoteIDs>
         </Note>
-        <Note ID="48" FontSize="12.0" Position="2669.702957,748.701277" Width="47.0">
+        <Note ID="48" FontSize="12.0" Position="2670.0,749.0" Width="47.0">
             <Appearance>
                 <Alignment>Left</Alignment>
                 <Border Weight="1">0.331867 0.609932 0.356197</Border>
@@ -312,217 +312,828 @@
             <String>hosting</String>
             <ConnectedNoteIDs>12, 55-56</ConnectedNoteIDs>
         </Note>
-        <Note ID="51" FontSize="12.0" Position="1535.702957,671.701277" Width="83.0">
+        <Note ID="51" FontSize="12.0" Position="1536.0,672.0" Width="83.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Of eigen code</String>
             <ConnectedNoteIDs>2</ConnectedNoteIDs>
         </Note>
-        <Note ID="53" FontSize="12.0" Position="2551.702957,929.701277" Width="45.0">
+        <Note ID="53" FontSize="12.0" Position="2552.0,930.0" Width="45.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Carto?</String>
             <ConnectedNoteIDs>72</ConnectedNoteIDs>
         </Note>
-        <Note ID="54" FontSize="12.0" Position="2653.702957,922.701277" Width="200.0">
+        <Note ID="54" FontSize="12.0" Position="2654.0,923.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Socket-based kan interessant zijn hiervoor. Het is snel, en event-based. We kunnen daarmee snel inspelen op de bewegingen van de gebruiker; sneller als met Ajax of DB’s. Dan hoeven we geen hele datasets te versturen. (Latency was altijd laag door localhost)</String>
             <ConnectedNoteIDs>42, 45-47, 72</ConnectedNoteIDs>
         </Note>
-        <Note ID="55" FontSize="12.0" Position="2712.702957,468.701277" Width="200.0">
+        <Note ID="55" FontSize="12.0" Position="2713.0,469.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Mits we een serverside bouwen, wat ik vermoed eigenlijk van wel aangezien het anders een erg zware app wordt, wordt hosting een groter probleem. GH-pages is alleen static (client-side). Heroku en shit moeten we vroeg verkennen. Want andere krijgen we later veel shit te verwerken</String>
             <ConnectedNoteIDs>48</ConnectedNoteIDs>
         </Note>
-        <Note ID="56" FontSize="12.0" Position="2864.702957,640.701277" Width="200.0">
+        <Note ID="56" FontSize="12.0" Position="2865.0,641.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Efficientie moeten we ook vroeg in acht nemen. We weten dat we gigantische datasets hebben. Die met een veelvoud aan data gaan groeien. Dus we moeten vroeg weten hoe we dit gaan aanpakken.</String>
             <ConnectedNoteIDs>48</ConnectedNoteIDs>
         </Note>
-        <Note ID="57" FontSize="12.0" Position="836.702957,459.701277" Width="95.0">
+        <Note ID="57" FontSize="12.0" Position="837.0,460.0" Width="95.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Unieke schepen</String>
             <ConnectedNoteIDs>19, 58</ConnectedNoteIDs>
         </Note>
-        <Note ID="58" FontSize="12.0" Position="868.702957,418.701277" Width="69.0">
+        <Note ID="58" FontSize="12.0" Position="869.0,419.0" Width="69.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Vlootgrotes</String>
             <ConnectedNoteIDs>57</ConnectedNoteIDs>
         </Note>
-        <Note ID="59" FontSize="12.0" Position="909.702957,595.701277" Width="50.0">
+        <Note ID="59" FontSize="12.0" Position="910.0,596.0" Width="50.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Datums</String>
             <ConnectedNoteIDs>19</ConnectedNoteIDs>
         </Note>
-        <Note ID="60" FontSize="12.0" Position="1012.702957,596.701277" Width="53.0">
+        <Note ID="60" FontSize="12.0" Position="1013.0,597.0" Width="53.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Locaties</String>
             <ConnectedNoteIDs>19</ConnectedNoteIDs>
         </Note>
-        <Note ID="61" FontSize="12.0" Position="957.702957,449.701277" Width="117.0">
+        <Note ID="61" FontSize="12.0" Position="958.0,450.0" Width="117.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Waardes / goederen</String>
             <ConnectedNoteIDs>19</ConnectedNoteIDs>
         </Note>
-        <Note ID="62" FontSize="12.0" Position="701.702957,989.701277" Width="198.0">
+        <Note ID="62" FontSize="12.0" Position="702.0,990.0" Width="198.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>local serverside + clientside hosting</String>
         </Note>
-        <Note ID="64" FontSize="12.0" Position="1384.702957,1490.701277" Width="56.0">
+        <Note ID="64" FontSize="12.0" Position="1393.55352,1788.429777" Width="56.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Niet mvp</String>
         </Note>
-        <Note ID="66" FontSize="12.0" Position="1574.702957,1495.701277" Width="56.0">
+        <Note ID="66" FontSize="12.0" Position="1575.0,1496.0" Width="56.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Niet mvp</String>
         </Note>
-        <Note ID="68" FontSize="12.0" Position="988.702957,381.701277" Width="54.0">
+        <Note ID="68" FontSize="12.0" Position="989.0,382.0" Width="54.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>niet mvp</String>
         </Note>
-        <Note ID="69" FontSize="12.0" Position="1903.702957,1004.701277" Width="49.0">
+        <Note ID="69" FontSize="12.0" Position="1885.012355,903.0" Width="49.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Reactie</String>
             <ConnectedNoteIDs>35</ConnectedNoteIDs>
         </Note>
-        <Note ID="70" FontSize="12.0" Position="1899.702957,942.701277" Width="58.0">
+        <Note ID="70" FontSize="12.0" Position="1881.012355,841.0" Width="58.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Interactie</String>
             <ConnectedNoteIDs>35</ConnectedNoteIDs>
         </Note>
-        <Note ID="71" FontSize="12.0" Position="1814.702957,1301.701277" Width="102.0">
-            <Appearance>
-                <Alignment>Left</Alignment>
-            </Appearance>
-            <String>Integratie Torgue</String>
-            <ConnectedNoteIDs>35, 37</ConnectedNoteIDs>
-        </Note>
-        <Note ID="72" FontSize="12.0" Position="2573.702957,964.701277" Width="50.0">
+        <Note ID="72" FontSize="12.0" Position="2574.0,965.0" Width="50.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Extern?</String>
             <ConnectedNoteIDs>53-54</ConnectedNoteIDs>
         </Note>
-        <Note ID="73" FontSize="12.0" Position="675.702957,1588.701277" Width="103.0">
+        <Note ID="73" FontSize="12.0" Position="676.0,1589.0" Width="103.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Responsiveness?</String>
         </Note>
-        <Note ID="74" FontSize="12.0" Position="675.702957,1616.701277" Width="200.0">
+        <Note ID="74" FontSize="12.0" Position="676.0,1617.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Ja, Leaflet is in grote lijnen responsive. We moeten metname zorgen dat we dat niet verknallen - Kleinste formaat wordt een probleem, maargoed, telefoons kunnen het toch nooit van zijn levensdagen draaien. Alleen al omdat we data vreten. Als we vroeg in het process op resonsiveness blijven letten, dan wordt het geen groot probleem later.</String>
         </Note>
-        <Note ID="75" FontSize="12.0" Position="673.702957,1825.701277" Width="200.0">
+        <Note ID="75" FontSize="12.0" Position="674.0,1826.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Style guides; Typografie door de hele interface van te voren bepalen; in plaats van individueel per element</String>
         </Note>
-        <Note ID="76" FontSize="12.0" Position="1323.702957,988.701277" Width="129.0">
+        <Note ID="76" FontSize="12.0" Position="1324.0,989.0" Width="129.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>(wellicht twee lagen, daar leaflet eigen interface heeft)</String>
         </Note>
-        <Note ID="77" FontSize="12.0" Position="464.702957,389.701277" Width="200.0">
+        <Note ID="77" FontSize="12.0" Position="465.0,390.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>We hebben een file met alle mogelijke routes in een geoJSON plot nodig. Zeer gedetailleerd! Hoeveel punten uiteindelijk toegekend worden kan de code voor zorgen.</String>
             <ConnectedNoteIDs>11</ConnectedNoteIDs>
         </Note>
-        <Note ID="78" FontSize="12.0" Position="538.702957,1386.701277" Width="83.0">
+        <Note ID="78" FontSize="12.0" Position="539.0,1387.0" Width="83.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Container site</String>
         </Note>
-        <Note ID="79" FontSize="12.0" Position="538.702957,1414.701277" Width="200.0">
+        <Note ID="79" FontSize="12.0" Position="539.0,1415.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Kunnen we ook alvast over nadenken. Niet mvp! </String>
         </Note>
-        <Note ID="81" FontSize="12.0" Position="2247.702957,760.701277" Width="137.0">
+        <Note ID="81" FontSize="12.0" Position="2248.0,761.0" Width="137.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Op deze streep zit al aardig wat DB-logica in torque om subsets te verkrijgen.</String>
             <ConnectedNoteIDs>32, 42</ConnectedNoteIDs>
         </Note>
-        <Note ID="82" FontSize="12.0" Position="2290.702957,1024.701277" Width="159.0">
+        <Note ID="82" FontSize="12.0" Position="2291.0,1027.298851" Width="159.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Hele dataset of subset? Latency? Mutatiesnelheid?</String>
             <ConnectedNoteIDs>42-43</ConnectedNoteIDs>
         </Note>
-        <Note ID="83" FontSize="12.0" Position="2250.702957,553.701277" Width="167.0">
+        <Note ID="83" FontSize="12.0" Position="2251.0,554.0" Width="167.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Ik ben geen fan van externe providers, dan verlies je element van controle. Maar het kan goed de beste (snelste) oplossing zijn. Maar er zijn ook tile-servers voor node.</String>
             <ConnectedNoteIDs>30, 44</ConnectedNoteIDs>
         </Note>
-        <Note ID="84" FontSize="12.0" Position="2496.702957,1431.701277" Width="104.0">
+        <Note ID="84" FontSize="12.0" Position="2497.0,1432.0" Width="104.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Geheugengebruik</String>
         </Note>
-        <Note ID="85" FontSize="12.0" Position="2496.702957,1459.701277" Width="200.0">
+        <Note ID="85" FontSize="12.0" Position="2497.0,1460.0" Width="200.0">
             <Appearance>
                 <Alignment>Left</Alignment>
             </Appearance>
             <String>Onze app gaat erg veel geheugen verbruiken als ik het zo bekijk. We moeten daar efficienter mee omgaan.</String>
         </Note>
+        <Note ID="87" FontSize="12.0" Position="3443.84853,1491.229255" Width="33.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882327 0.80198</Fill>
+            </Appearance>
+            <String>DAS</String>
+        </Note>
+        <Note ID="88" FontSize="12.0" Position="3739.780034,1488.619517" Width="34.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882327 0.80198</Fill>
+            </Appearance>
+            <String>BGB</String>
+        </Note>
+        <Note ID="89" FontSize="12.0" Position="3430.035485,1599.565011" Width="47.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Vertrek</String>
+            <ConnectedNoteIDs>91</ConnectedNoteIDs>
+            <PointsToNoteIDs>91</PointsToNoteIDs>
+        </Note>
+        <Note ID="91" FontSize="12.0" Position="3722.01132,1601.229437" Width="62.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Aankomst</String>
+            <ConnectedNoteIDs>89, 98</ConnectedNoteIDs>
+        </Note>
+        <Note ID="92" FontSize="12.0" Position="3728.694642,1648.607344" Width="47.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Vertrek</String>
+            <ConnectedNoteIDs>95, 97</ConnectedNoteIDs>
+            <PointsToNoteIDs>95, 97</PointsToNoteIDs>
+        </Note>
+        <Note ID="93" FontSize="12.0" Position="3731.694642,1530.281762" Width="49.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>Batavia</String>
+        </Note>
+        <Note ID="94" FontSize="12.0" Position="3421.391408,1536.829001" Width="70.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>Amsterdam</String>
+        </Note>
+        <Note ID="95" FontSize="12.0" Position="4060.687374,1651.029946" Width="62.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Aankomst</String>
+            <ConnectedNoteIDs>92</ConnectedNoteIDs>
+        </Note>
+        <Note ID="96" FontSize="12.0" Position="4037.867788,1534.314103" Width="117.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>Willekeurige Kolonie</String>
+        </Note>
+        <Note ID="97" FontSize="12.0" Position="3418.84853,1648.77286" Width="62.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Aankomst</String>
+            <ConnectedNoteIDs>92</ConnectedNoteIDs>
+        </Note>
+        <Note ID="98" FontSize="12.0" Position="4070.84853,1602.750331" Width="47.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Vertrek</String>
+            <ConnectedNoteIDs>91</ConnectedNoteIDs>
+            <PointsToNoteIDs>91</PointsToNoteIDs>
+        </Note>
+        <Note ID="100" FontSize="12.0" Position="3730.625056,1439.967627" Width="66.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>1700-1800</String>
+        </Note>
+        <Note ID="101" FontSize="12.0" Position="3430.84853,1443.619517" Width="66.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>1600-1800</String>
+        </Note>
+        <Note ID="102" FontSize="12.0" Position="2155.760275,2311.625286" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882327 0.80198</Fill>
+            </Appearance>
+            <String>Fase 1</String>
+        </Note>
+        <Note ID="103" FontSize="12.0" Position="2646.270754,2307.318096" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882327 0.80198</Fill>
+            </Appearance>
+            <String>Fase 2</String>
+        </Note>
+        <Note ID="104" FontSize="12.0" Position="3272.255213,2313.762262" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882327 0.80198</Fill>
+            </Appearance>
+            <String>Fase 3</String>
+        </Note>
+        <Note ID="105" FontSize="12.0" Position="3883.351824,2308.543512" Width="48.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.331867 0.609932 0.356197</Border>
+                <Fill>0.790123 0.882327 0.80198</Fill>
+            </Appearance>
+            <String>Fase 4</String>
+        </Note>
+        <Note ID="106" FontSize="12.0" Position="2661.833617,2440.95327" Width="79.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Data Mockup</String>
+            <ConnectedNoteIDs>119</ConnectedNoteIDs>
+        </Note>
+        <Note ID="107" FontSize="12.0" Position="2143.778807,2400.114385" Width="55.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>Planning</String>
+        </Note>
+        <Note ID="108" FontSize="12.0" Position="2143.778807,2428.114385" Width="67.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>Orientation</String>
+        </Note>
+        <Note ID="109" FontSize="12.0" Position="2144.213763,2455.805519" Width="89.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>Data Aquisition</String>
+        </Note>
+        <Note ID="110" FontSize="12.0" Position="2143.778807,2484.114385" Width="69.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>Networking</String>
+        </Note>
+        <Note ID="112" FontSize="12.0" Position="2561.0,2851.371922" Width="65.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>Client-side</String>
+            <ConnectedNoteIDs>131</ConnectedNoteIDs>
+        </Note>
+        <Note ID="113" FontSize="12.0" Position="2758.607106,2751.644304" Width="57.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Map-tiles</String>
+            <ConnectedNoteIDs>131, 194</ConnectedNoteIDs>
+        </Note>
+        <Note ID="114" FontSize="12.0" Position="2767.453937,2847.421434" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Torque</String>
+            <ConnectedNoteIDs>131, 138</ConnectedNoteIDs>
+        </Note>
+        <Note ID="115" FontSize="12.0" Position="2845.452048,2966.665306" Width="53.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Timeline</String>
+            <ConnectedNoteIDs>138-139</ConnectedNoteIDs>
+        </Note>
+        <Note ID="117" FontSize="12.0" Position="2627.5947,2268.155305" Width="93.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>General Outline</String>
+        </Note>
+        <Note ID="118" FontSize="12.0" Position="2152.764817,2268.497379" Width="47.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Startup</String>
+        </Note>
+        <Note ID="119" FontSize="12.0" Position="2573.500224,2415.934012" Width="35.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>Build</String>
+            <ConnectedNoteIDs>106, 122</ConnectedNoteIDs>
+        </Note>
+        <Note ID="121" FontSize="12.0" Position="2560.586888,2546.463627" Width="80.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>(local) Server</String>
+            <ConnectedNoteIDs>130</ConnectedNoteIDs>
+        </Note>
+        <Note ID="122" FontSize="12.0" Position="2661.857782,2400.004142" Width="112.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Default Build things</String>
+            <ConnectedNoteIDs>119</ConnectedNoteIDs>
+        </Note>
+        <Note ID="123" FontSize="12.0" Position="2751.857782,2524.35625" Width="49.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>mySQL</String>
+            <ConnectedNoteIDs>130</ConnectedNoteIDs>
+        </Note>
+        <Note ID="124" FontSize="12.0" Position="2144.778807,2512.114385" Width="110.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>Learning / Reading</String>
+        </Note>
+        <Note ID="125" FontSize="12.0" Position="2144.778807,2540.114385" Width="53.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>Concept</String>
+            <ConnectedNoteIDs>127-128</ConnectedNoteIDs>
+        </Note>
+        <Note ID="127" FontSize="12.0" Position="2236.454134,2569.307517" Width="53.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Drawing</String>
+            <ConnectedNoteIDs>125</ConnectedNoteIDs>
+        </Note>
+        <Note ID="128" FontSize="12.0" Position="2236.454134,2597.307517" Width="46.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Writing</String>
+            <ConnectedNoteIDs>125</ConnectedNoteIDs>
+        </Note>
+        <Note ID="129" FontSize="12.0" Position="2749.640485,2557.860065" Width="60.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Map Tiles</String>
+            <ConnectedNoteIDs>130</ConnectedNoteIDs>
+        </Note>
+        <Note ID="130" FontSize="12.0" Position="2664.020572,2542.911483" Width="31.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Http</String>
+            <ConnectedNoteIDs>121, 123, 129</ConnectedNoteIDs>
+        </Note>
+        <Note ID="131" FontSize="12.0" Position="2677.375994,2846.556427" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Leaflet</String>
+            <ConnectedNoteIDs>112-114, 139</ConnectedNoteIDs>
+        </Note>
+        <Note ID="133" FontSize="12.0" Position="3246.183266,2275.599471" Width="98.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Connecting Data</String>
+        </Note>
+        <Note ID="134" FontSize="12.0" Position="3209.173021,2411.462879" Width="35.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>Build</String>
+            <ConnectedNoteIDs>156</ConnectedNoteIDs>
+        </Note>
+        <Note ID="135" FontSize="12.0" Position="3269.452817,2521.197254" Width="117.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Data Transformation</String>
+            <ConnectedNoteIDs>143-144, 156</ConnectedNoteIDs>
+        </Note>
+        <Note ID="136" FontSize="12.0" Position="3223.36436,2940.202798" Width="67.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>Client-Side</String>
+            <ConnectedNoteIDs>192</ConnectedNoteIDs>
+        </Note>
+        <Note ID="137" FontSize="12.0" Position="3490.986031,3019.604699" Width="57.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Statistiek</String>
+            <ConnectedNoteIDs>140, 160-162</ConnectedNoteIDs>
+        </Note>
+        <Note ID="138" FontSize="12.0" Position="2841.760275,2892.56772" Width="67.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Mock-Data</String>
+            <ConnectedNoteIDs>114-115</ConnectedNoteIDs>
+        </Note>
+        <Note ID="139" FontSize="12.0" Position="2764.336859,2965.97617" Width="55.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Interface</String>
+            <ConnectedNoteIDs>115, 131</ConnectedNoteIDs>
+        </Note>
+        <Note ID="140" FontSize="12.0" Position="3394.663538,2991.58435" Width="55.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Interface</String>
+            <ConnectedNoteIDs>137, 192</ConnectedNoteIDs>
+        </Note>
+        <Note ID="141" FontSize="12.0" Position="3311.439067,2696.854817" Width="96.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Point generation</String>
+            <ConnectedNoteIDs>143</ConnectedNoteIDs>
+        </Note>
+        <Note ID="142" FontSize="12.0" Position="3250.563101,2646.921454" Width="79.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Path creation</String>
+            <ConnectedNoteIDs>143</ConnectedNoteIDs>
+        </Note>
+        <Note ID="143" FontSize="12.0" Position="3305.758232,2582.979957" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Torque</String>
+            <ConnectedNoteIDs>135, 141-142</ConnectedNoteIDs>
+        </Note>
+        <Note ID="144" FontSize="12.0" Position="3372.234621,2551.058822" Width="57.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Statistiek</String>
+            <ConnectedNoteIDs>135, 172</ConnectedNoteIDs>
+        </Note>
+        <Note ID="145" FontSize="12.0" Position="3863.691208,2634.170001" Width="115.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Value Normalisation</String>
+            <ConnectedNoteIDs>170</ConnectedNoteIDs>
+        </Note>
+        <Note ID="146" FontSize="12.0" Position="4000.351824,2435.658701" Width="103.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Data Interpolation</String>
+            <ConnectedNoteIDs>148, 155, 157</ConnectedNoteIDs>
+        </Note>
+        <Note ID="148" FontSize="12.0" Position="4095.39234,2394.253723" Width="40.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Dates</String>
+            <ConnectedNoteIDs>146, 153</ConnectedNoteIDs>
+        </Note>
+        <Note ID="153" FontSize="12.0" Position="4133.802042,2437.665787" Width="80.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Unique Ships</String>
+            <ConnectedNoteIDs>148, 155</ConnectedNoteIDs>
+        </Note>
+        <Note ID="155" FontSize="12.0" Position="4082.568939,2496.181593" Width="55.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Voyages</String>
+            <ConnectedNoteIDs>146, 153</ConnectedNoteIDs>
+        </Note>
+        <Note ID="156" FontSize="12.0" Position="3221.630143,2466.167094" Width="115.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Data Concatenation</String>
+            <ConnectedNoteIDs>134-135</ConnectedNoteIDs>
+        </Note>
+        <Note ID="157" FontSize="12.0" Position="3886.917231,2437.515532" Width="35.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>Build</String>
+            <ConnectedNoteIDs>146, 170</ConnectedNoteIDs>
+        </Note>
+        <Note ID="158" FontSize="12.0" Position="3407.321769,2937.798039" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Torque</String>
+            <ConnectedNoteIDs>159, 192</ConnectedNoteIDs>
+        </Note>
+        <Note ID="159" FontSize="12.0" Position="3487.286558,2916.112646" Width="76.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Flawed Data</String>
+            <ConnectedNoteIDs>158</ConnectedNoteIDs>
+        </Note>
+        <Note ID="160" FontSize="12.0" Position="3590.750566,2995.462984" Width="24.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>D3</String>
+            <ConnectedNoteIDs>137</ConnectedNoteIDs>
+        </Note>
+        <Note ID="161" FontSize="12.0" Position="3590.41631,3023.61451" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Styling</String>
+            <ConnectedNoteIDs>137</ConnectedNoteIDs>
+        </Note>
+        <Note ID="162" FontSize="12.0" Position="3586.251221,3054.61451" Width="149.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Data Import / Manipulation</String>
+            <ConnectedNoteIDs>137</ConnectedNoteIDs>
+        </Note>
+        <Note ID="166" FontSize="12.0" Position="3894.892228,2731.296966" Width="91.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>External Server</String>
+            <ConnectedNoteIDs>167</ConnectedNoteIDs>
+        </Note>
+        <Note ID="167" FontSize="12.0" Position="4030.892228,2730.296966" Width="47.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Heroku</String>
+            <ConnectedNoteIDs>166</ConnectedNoteIDs>
+        </Note>
+        <Note ID="169" FontSize="12.0" Position="3878.351824,2270.853468" Width="79.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Improvement</String>
+        </Note>
+        <Note ID="170" FontSize="12.0" Position="3900.351824,2552.853468" Width="117.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Data Transformation</String>
+            <ConnectedNoteIDs>145, 157, 171</ConnectedNoteIDs>
+        </Note>
+        <Note ID="171" FontSize="12.0" Position="4040.033194,2611.149839" Width="155.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Commodities Normalisation</String>
+            <ConnectedNoteIDs>170</ConnectedNoteIDs>
+        </Note>
+        <Note ID="172" FontSize="12.0" Position="3454.985206,2587.93617" Width="68.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Ship Count</String>
+            <ConnectedNoteIDs>144</ConnectedNoteIDs>
+        </Note>
+        <Note ID="180" FontSize="12.0" Position="3904.022594,2879.695324" Width="67.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.756763 0.785592 0.373258</Border>
+                <Fill>0.906773 0.910625 0.634363</Fill>
+            </Appearance>
+            <String>Client-Side</String>
+            <ConnectedNoteIDs>197</ConnectedNoteIDs>
+        </Note>
+        <Note ID="181" FontSize="12.0" Position="4264.299331,2996.763081" Width="57.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Statistiek</String>
+            <ConnectedNoteIDs>182, 186</ConnectedNoteIDs>
+        </Note>
+        <Note ID="182" FontSize="12.0" Position="4148.899621,3000.0" Width="55.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Interface</String>
+            <ConnectedNoteIDs>181, 197</ConnectedNoteIDs>
+        </Note>
+        <Note ID="186" FontSize="12.0" Position="4376.583487,3005.243641" Width="71.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Interactions</String>
+            <ConnectedNoteIDs>181, 187-188</ConnectedNoteIDs>
+        </Note>
+        <Note ID="187" FontSize="12.0" Position="4455.640937,3053.07587" Width="63.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Dropdown</String>
+            <ConnectedNoteIDs>186</ConnectedNoteIDs>
+        </Note>
+        <Note ID="188" FontSize="12.0" Position="4457.813285,2960.233066" Width="80.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Data-Refresh</String>
+            <ConnectedNoteIDs>186</ConnectedNoteIDs>
+        </Note>
+        <Note ID="191" FontSize="12.0" Position="3397.571109,2858.824447" Width="57.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Map-tiles</String>
+            <ConnectedNoteIDs>192-193</ConnectedNoteIDs>
+        </Note>
+        <Note ID="192" FontSize="12.0" Position="3315.643292,2942.58435" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Leaflet</String>
+            <ConnectedNoteIDs>136, 140, 158, 191</ConnectedNoteIDs>
+        </Note>
+        <Note ID="193" FontSize="12.0" Position="3488.321769,2820.58435" Width="77.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Custom Map</String>
+            <ConnectedNoteIDs>191</ConnectedNoteIDs>
+        </Note>
+        <Note ID="194" FontSize="12.0" Position="2835.880965,2729.609016" Width="121.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Natural Earth Outline</String>
+            <ConnectedNoteIDs>113</ConnectedNoteIDs>
+        </Note>
+        <Note ID="195" FontSize="12.0" Position="4127.685343,2874.301757" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Torque</String>
+            <ConnectedNoteIDs>196-198</ConnectedNoteIDs>
+        </Note>
+        <Note ID="196" FontSize="12.0" Position="4209.0,2836.0" Width="67.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Good Data</String>
+            <ConnectedNoteIDs>195</ConnectedNoteIDs>
+        </Note>
+        <Note ID="197" FontSize="12.0" Position="4036.006866,2879.088068" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Leaflet</String>
+            <ConnectedNoteIDs>180, 182, 195</ConnectedNoteIDs>
+        </Note>
+        <Note ID="198" FontSize="12.0" Position="4209.0,2881.234848" Width="51.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Filtering</String>
+            <ConnectedNoteIDs>195</ConnectedNoteIDs>
+        </Note>
+        <Note ID="199" FontSize="12.0" Position="3553.893029,1357.118189" Width="160.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.477193 0.557066 0.76433</Border>
+                <Fill>0.840969 0.866828 0.925903</Fill>
+            </Appearance>
+            <String>Data Interpolation - Voyages</String>
+        </Note>
     </Notes>
     <BackgroundShapes>
-        <Shape ID="63" Sticky="No" Position="1331.702957,1522.701277" Width="113.0" Height="110.0">
+        <Shape ID="63" Sticky="No" Position="1340.55352,1820.429777" Width="113.0" Height="110.0">
             <Appearance>
                 <Border Weight="1"></Border>
             </Appearance>
         </Shape>
-        <Shape ID="65" Sticky="No" Position="1544.702957,1147.701277" Width="432.0" Height="341.0">
+        <Shape ID="65" Sticky="No" Position="1545.0,1148.0" Width="432.0" Height="341.0">
             <Appearance>
                 <Border Weight="1"></Border>
             </Appearance>
         </Shape>
-        <Shape ID="67" Sticky="No" Position="826.702957,403.701277" Width="258.0" Height="95.0">
+        <Shape ID="67" Sticky="No" Position="827.0,404.0" Width="258.0" Height="95.0">
             <Appearance>
                 <Border Weight="1"></Border>
             </Appearance>
@@ -534,8 +1145,11 @@
         <Stack>73-74</Stack>
         <Stack>78-79</Stack>
         <Stack>84-85</Stack>
+        <Stack>107-110</Stack>
+        <Stack>124-125</Stack>
+        <Stack>127-128</Stack>
     </Stacks>
-    <AutoFit>0-7, 9, 12, 14-16, 21-22, 24-28, 30-32, 34-40, 42-48, 51, 53, 57-62, 64, 66, 68-70, 72-73, 78, 84</AutoFit>
+    <AutoFit>0-7, 9, 12, 14-16, 21-22, 24-28, 30-32, 34-40, 42-48, 51, 53, 57-62, 64, 66, 68-70, 72-73, 78, 84, 87-89, 91-98, 100-104, 106-110, 112-115, 117-119, 121-125, 127-131, 133-146, 148, 153, 155-162, 166-167, 169-172, 180-182, 186-188, 191-199</AutoFit>
     <NoteStyles>
         <Style Name="Blue Bubble" ID="300BD8A4-30E1-49F9-8C96-67F96C81BA28" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
             <BorderThickness>1</BorderThickness>
