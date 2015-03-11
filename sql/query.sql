@@ -1,16 +1,14 @@
+-- Belangrijk, nog een query maken waarbij alle fouten
+-- eerst uit de dataset gehaald worden
+
 -- Nieuwe tijdelijke tabel, met geconcateneerde vertrek en aankomsttijd
 CREATE TABLE tempTable
-SELECT 	voyId, 
+SELECT	voyId, 
 		VoyDASNumber,
-		-- Onderstaande regel (data_format) zet datum om naar juiste formaat
-		-- Hij geeft op dit moment alleen bij 23 data een NULL aan
-		-- omdat sommige BGB data's niet goed zijn geformatteerd
-		-- date_format(str_to_date(concat_ws('/', `voyDepartureDay`, `voyDepartureMonth`, `voyDepartureYear`), '%e/%c/%Y'), '%d/%m/%Y') AS `voyDepartureDateTest`,
-		CONCAT_WS("-", `voyDepartureDay`, `voyDepartureMonth`, `voyDepartureYear`) AS `voyDepartureDate`, 
+		CONCAT(CONCAT_WS("-", `voyDepartureYear`, `voyDepartureMonth`, `voyDepartureDay`),'T00:00:00Z') AS `voyDepartureDate`,
 		voyDeparturePlaceId, 
 		voyDepartureRegioId,
-		CONCAT_WS("-", `voyArrivalDay`, `voyArrivalMonth`, `voyArrivalYear`) AS `voyArrivalDate`,
-		-- date_format(str_to_date(concat_ws('/', `voyArrivalDay`, `voyArrivalMonth`, `voyArrivalYear`), '%e/%c/%Y'), '%d/%m/%Y') AS `voyArrivalDateTest`,
+		CONCAT(CONCAT_WS("-", `voyArrivalYear`, `voyArrivalMonth`, `voyArrivalDay`),'T00:00:00Z') AS `voyArrivalDate`,
 		voyArrivalPlaceId,
 		voyArrivalRegioId
 FROM `bgbVoyage`;
@@ -91,10 +89,41 @@ SELECT 	voyId,
 		voyArrivalPlace
 FROM `voyage`;
 
+-- Tijdenfix
+-- Tijden worden hierbij uitelkaar getrokken
+CREATE TABLE tempTableDASTimefix
+SELECT 	voyId,
+		voyNumber,
+		SUBSTRING_INDEX(`voyDeparture`, '-', -1) AS `voyVertrekJaar`,
+        SUBSTRING_INDEX(`voyDeparture`, '-', 1) AS `voyVertrekDag`,
+        SUBSTRING_INDEX(`voyDeparture`, '-', 2) AS `voyVertrekTijdelijk`,
+        SUBSTRING_INDEX(`voyArrivalDate`, '-', -1) AS `voyAankomstJaar`,
+        SUBSTRING_INDEX(`voyArrivalDate`, '-', 1) AS `voyAankomstDag`,
+        SUBSTRING_INDEX(`voyArrivalDate`, '-', 2) AS `voyAankomstTijdelijk`,
+        voyDeparturePlace,
+        voyArrivalPlace
+FROM `voyage`;
+
+-- Ook de maanden worden nu goedgezet
+CREATE TABLE tempTableDASTimefixIncludeMonths
+SELECT	*,
+		SUBSTRING_INDEX(`voyVertrekTijdelijk`, '-', -1) AS `voyVertrekMaand`,
+        SUBSTRING_INDEX(`voyAankomstTijdelijk`, '-', -1) AS `voyAankomstMaand`
+FROM tempTableDASTimefix;
+
+-- Vervolgens samenvoeging verschillende tijden
+CREATE TABLE tempTableDASTimestamp
+SELECT	voyId, 
+		VoyNumber,
+		CONCAT(CONCAT_WS("-", `voyVertrekJaar`, `voyVertrekMaand`, `voyVertrekDag`),'T00:00:00Z') AS `voyDepartureDate`,
+		CONCAT(CONCAT_WS("-", `voyAankomstJaar`, `voyAankomstMaand`, `voyAankomstDag`),'T00:00:00Z') AS `voyArrivalDate`,
+		voyDeparturePlace,
+		voyArrivalPlace
+FROM `tempTableDASTimefixIncludeMonths`;
+
 -- Uniformering columnnamen
-ALTER TABLE tempTableDAS
+ALTER TABLE tempTableDASTimestamp
 CHANGE VoyNumber voyDASNumber varchar(255),
-CHANGE voyDeparture voyDepartureDate varchar(35),
 CHANGE voyDeparturePlace PlaceOfDeparture varchar(255),
 CHANGE voyArrivalPlace PlaceofArrival varchar(255);
 
@@ -111,7 +140,7 @@ WHERE `voyDASNumber` IS NULL OR `voyDASNumber` = '';
 
 -- Merge DAS en BGB
 CREATE TABLE bgbdasVoyageMerge
-AS SELECT * FROM tempTableDAS
+AS SELECT * FROM tempTableDASTimestamp
 UNION SELECT * FROM bgbVoyageReformatMinusDAS;
 
 ALTER TABLE bgbdasVoyageMerge
@@ -147,4 +176,7 @@ ADD PRIMARY KEY (voyId);
 -- Drop loze tabellen
 DROP TABLE 	tempTableDAS,
 			bgbdasVoyageMerge,
-			bgbdasVoyageMergeRoute
+			bgbdasVoyageMergeRoute,
+			tempTableDASTimestamp,
+			tempTableDASTimefixIncludeMonths,
+			tempTableDASTimefix;	
