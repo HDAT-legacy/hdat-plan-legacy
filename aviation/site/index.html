@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>In flight</title>
+  
+  <!--[if lt IE 9]>
+  <script>window.location.href = "fallback.html";</script>
+  <![endif]-->
+  
+  <meta name="viewport" content="width=800, user-scalable=no">
+  <!-- Full screen on iOS (if added to home screen) -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  
+  <link rel="stylesheet" type="text/css" href="style.css">
+  
+  <!-- Google analytics -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  
+    ga('create', 'UA-44635456-2', 'kiln.it');
+    ga('send', 'pageview');
+  </script>
+</head>
+<body>
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=184401911756573";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+  
+  <div id="map"></div>
+  
+  <div class="modules">
+    <div class="current-module"></div>
+  </div>
+  
+  <div id="loader-holder">
+    <div class="loader atop-map">
+      <div class="loader-bar"></div>
+      <svg class="loader-mask" x="0px" y="0px" width="400px" height="400px" viewBox="0 0 400 400" enable-background="new 0 0 400 400">
+        <g>
+          <path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M184.86,165.656c7.292,5.748,21.47,3.179,25.495,0
+          c12.512-9.867,10.186-65.983-2.12-73.323c-4.618-2.746-10.087-2.042-14.875-1.053c-1.003,0.205-2.211-0.285-3.193,0
+          C173.102,96.216,172.79,156.138,184.86,165.656z"></path>
+          <path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M162.547,264.472c-43.092,52.681,100.496,59.781,78.623,5.308
+          C223.223,259.75,188.603,266.385,162.547,264.472z"></path>
+          <path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M0,0v400h400V0H0z M294.299,269.779
+          c-3.523,37.771-39.322,56.722-77.564,59.504c-34.235,2.487-68.556-1.046-89.249-11.688c-7.292-3.742-18.011-13.34-20.187-20.189
+          c-8.607-27.057,16.565-38.348,41.434-42.499c-41.619-8.758-30.011-61.83,1.06-72.257c-19.218-15.835-31.866-31.071-28.68-60.563
+          c3.286-30.545,33.048-52.736,74.376-53.121c16.026-0.15,26.749,7.597,43.571,8.499C255.604,78.355,273,68.594,289,68.966
+          c0,12.034,0,24.077,0,36.12c-12-1.144-20.401-6.523-30.821-9.56c4.901,8.146,14.292,15.608,15.936,29.754
+          c6.125,52.738-52.312,75.486-105.192,62.684c-8.379,2.959-9.275,17.477-2.127,21.253c10.954,5.783,55.736,0.292,71.188,1.061
+          C276.188,212.191,298.154,228.381,294.299,269.779z"></path>
+        </g>
+      </svg>
+      <div class="loader-play"><i class="fa fa-play"></i></div>
+    </div>
+  </div>
+
+  <div id="info-holder" class="atop-map">
+      <div id="assumptions">
+          <div id="assumptions-inner">
+              <div class="assumptions-title">Assumptions and details</div>
+              <div class="assumptions-name">Flight positions</div>
+              <div>Based on live schedule data from FlightsStats.com, assuming all planes flies in a great circle path</div>
+              <div class="assumptions-name">Routes map</div>
+              <div>Shows all the routes flown on 27 October 2013</div>
+              <div class="assumptions-name">Number of people in the air</div>
+              <div>Estimate from ICAO</div>
+              <div class="assumptions-name">Passenger numbers graph</div>
+              <div>1914 figure from <a href="http://www.dailykos.com/story/2013/07/29/1226611/-The-First-Passenger-Airliner-The-Benoist-XIV-and-the-St-Pete-Tampa-Airboat-Line" target="_top">DailyKos</a>
+              <div>Interpolated from 1915 to 1929 (no data available)</div>
+              <div>from Marc Dierikx for 1930 to 1969</div>
+              <div>from World Bank for 1970 to 2010</div>
+              <div>175m per year added for 2011–2013, based on <a href="http://www.iata.org/about/Documents/annual-review-2012.pdf" target="_top">IATA</a></div>
+              </div>
+          </div>
+      </div>
+      <div id="info-inner">
+          <div class="info-title">In flight</div>
+          <div><a href="http://kiln.it/talkie" target="_top">A Talkie</a></div>
+
+          <div class="info-role">Created for the Guardian by Kiln</div>
+          <div><a href="http://kiln.it" target="_top">kiln.it</a></div>
+
+          <div class="info-role">Content, technology and design</div>
+          <div>Duncan Clark, Tom Flannery &amp; Robin Houston</div>
+
+          <div class="info-role">Sound design</div>
+          <div>Francesca Panetta</div>
+
+          <div class="info-role">Voice</div>
+          <div>Frank Burnet</div>
+          
+          <div class="info-role">Live flights data</div>
+          <div><a href="http://www.flightstats.com" target="_top">FlightStats</a></div>
+          
+          <div class="info-role">Thanks to</div>
+          <div>The World Bank</div>
+          <div>ICAO</div>
+          <div>IATA</div>
+
+          <div id="info-view-assumptions" class="info-role"><i id="assumptions-icon" class="fa fa-chevron-circle-left"></i> <a href="#"><span id="view-assumptions-text">Show details</span></a></div>
+      </div>
+  </div>
+
+  <div id="show-info-button" class="atop-map interaction-only">
+      <i id="show-info-icon" class="fa fa-info-circle"></i>
+  </div>
+    
+  <div class="controls atop-map">
+    <a href="http://gu.com/p/3yazb" target="_top">
+      <div class="logo button">
+        <img src="media/g.png">
+      </div>
+    </a>
+    
+    <div id="chapters">
+      <div id="chap1" class="button chapter selected">
+          <div class="chap-number">1</div>
+          <div class="chap-text">Mapping the skies</div>
+      </div>
+      <div id="chap2" class="button chapter">
+          <div class="chap-number">2</div>
+          <div class="chap-text">Birth of an industry</div>
+      </div>
+      <div id="chap3" class="button chapter">
+          <div class="chap-number">3</div>
+          <div class="chap-text">A century of growth</div>
+      </div>
+      <div id="chap4" class="button chapter">
+          <div class="chap-number">4</div>
+          <div class="chap-text">Hitting the limits?</div>
+      </div>
+    </div>
+    
+    <div class="share button control">
+      <div class="facebook-share-button" style="cursor: pointer;">Facebook</div>
+      <br>
+      <a href="https://twitter.com/share" class="twitter-share-button" data-count="none" data-text="Incredible live map of flights in the past 24 hours (and 100 years)" data-url="http://gu.com/p/3yazb/tw">Tweet</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    </div>
+    
+    <div class="fullscreen button control hidden-phone hidden-tablet">
+      <h2><i class="fa fa-fw fa-arrows-alt"></i></h2>
+    </div>
+    
+    <div class="sound button control hidden-phone">
+      <h2><i class="fa fa-fw fa-volume-up"></i></h2>
+    </div>
+    
+    <div class="time button control">
+      <h2><i class="fa fa-fw fa-play"></i></h2>
+    </div>
+    
+    <div class="timeline">
+      <div class="current"></div>
+    </div>
+  
+  </div> <!-- /.controls -->
+
+ 
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <script src="js/lib.js" charset="utf-8"></script>
+  <script src="js/app.js" charset="utf-8"></script>
+</body>
+</html>
